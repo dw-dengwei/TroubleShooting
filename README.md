@@ -7,4 +7,4 @@
 标记语言排版文档等优点。并且更加便于传播这些软件出现的问题和使用小技巧，更加便于大家一起讨论。
 
 # 作者
-邓韦 [dw-dengwei@outlook.com](mailto://dw-dengwei@outlook.com)
+[dw-dengwei@outlook.com](mailto://dw-dengwei@outlook.com)
